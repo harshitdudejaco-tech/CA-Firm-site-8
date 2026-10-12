@@ -4,7 +4,7 @@
 
 /* ---------- SETTINGS (edit only this block) ---------- */
 const CONFIG = {
-  whatsapp: "918010917581",                 // country code + number, no + or spaces
+  whatsapp: "919319468368",                 // country code + number, no + or spaces
   // Leave this empty and the query form opens WhatsApp with the message ready (no key, nothing secret in this file).
   // To receive queries by email, deploy cloudflare-worker.js (see FORM-SETUP.txt) and paste its URL here.
   formEndpoint: "",
@@ -218,7 +218,7 @@ const ARTICLES = {
       <h4>Cookies and tracking</h4>
       <p>This website does not use advertising cookies. The embedded map and fonts are loaded from Google and follow Google's privacy policy.</p>
       <h4>Contact</h4>
-      <p>To ask us to delete your details, email harshitdudeja.co@gmail.com.</p>`
+      <p>To ask us to delete your details, email harshit@hdaco.in.</p>`
   }
 };
 
